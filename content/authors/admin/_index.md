@@ -32,20 +32,16 @@ interests:
 
 # Education
 education:
-[[education.courses]]
-  course : "PhD in Artificial Intelligence"
-  institution : "Stanford University"
-  year : 2012
-
-[[education.courses]]
-  course : "MEng in Artificial Intelligence"
-  institution : "Massachusetts Institute of Technology"
-  year : 2009
-
-[[education.courses]]
-  course : "BSc in Artificial Intelligence"
-  institution : "Massachusetts Institute of Technology"
-  year : 2008
+  courses:
+    - course: Research Assistant
+      institution: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
+      year: 2023-2024
+    - course: MEng in Biology and Medicine (Bioengineering)
+      institution: Ocean University of China
+      year: 2020-2023
+    - course: BEng in Environmental Engineering
+      institution: Shanghai University of Engineering and Technology
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
