@@ -21,7 +21,7 @@ organizations:
   - name: Ocean University of China
     url: http://www.ouc.edu.cn/main.htm
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio to show in About widget
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
