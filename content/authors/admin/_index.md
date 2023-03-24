@@ -16,21 +16,21 @@ superuser: true
 # Role/position/tagline
 role: Master Degree Candidate of Biology and Medicine
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
   - name: Ocean University of China
     url: http://www.ouc.edu.cn/main.htm
 
-# Short bio to show in About widget
+# Short bio
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# Interests
 interests:
   - Mechanisms of innate immunity in aquatic animals
   - Construction of novel detection method for pathogens
   - Optimization of breeding technology for disease resistance
 
-# Education to show in About widget
+# Education
 education:
   courses:
     - course: Research Assistant
