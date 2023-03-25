@@ -1,12 +1,8 @@
 ---
-title: "An example journal article"
+title: "Development and Visualization Improvement for the Rapid Detection of Decapod Iridescent Virus 1 (DIV1) in Penaeus vannamei Based on an Isothermal Recombinase Polymerase Amplification Assay"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2022-12-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "* Viruses, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Viral diseases have seriously restricted the healthy development of aquaculture, and decapod iridescent virus 1 (DIV1) has led to heavy losses in the global shrimp aquaculture industry. Due to the lack of effective treatment, early detection and regular monitoring are the most effective ways to avoid infection with DIV1. In this study, a novel real-time quantitative recombinase polymerase amplification (qRPA) assay and its instrument-free visualization improvement were described for the rapid detection of DIV1. Optimum primer pairs, suitable reaction temperatures, and probe concentrations of a DIV1-qRPA assay were screened to determine optimal reaction conditions. Then, its ability to detect DIV1 was evaluated and compared with real-time quantitative polymerase chain reactions (qPCRs). The sensitivity tests demonstrated that the limit of detection (LOD) of the DIV1-qRPA assay was 1.0 copies μL^−1. Additionally, the presentation of the detection results was improved with SYBR Green I, and the LOD of the DIV1-RPA-SYBR Green I assay was 1.0 × 103 copies μL^−1. Both the DIV1-qRPA and DIV1-RPA-SYBR Green I assays could be performed at 42°C within 20 min and without cross-reactivity with the following: white spot syndrome virus (WSSV), Vibrio parahaemolyticus associated with acute hepatopancreatic necrosis disease (VpAHPND), Enterocytozoon hepatopenaei (EHP), and infectious hypodermal and hematopoietic necrosis virus (IHHNV). In conclusion, this approach yields rapid, straightforward, and simple DIV1 diagnoses, making it potentially valuable as a reliable tool for the detection and prevention of DIV1, especially where there is a paucity of laboratory equipment.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We developed a highly sensitive and specific real-time quantitative RPA assay and improved its instrument-free visualization for rapidly detecting DIV1. The LOD of the DIV1-qRPA assay reached 1.0 copies μL−1, which was higher than the LOD of qPCR and qLAMP, and the visual detecting limitation of the instrument-free DIV1-RPA-SYBR Green I assay was 1.0 × 103 copies μL−1. Both assays could be performed at 42 °C within 20 min and had no cross-reactivity with WSSV, VpAHPND, EHP, or IHHNV. These two methods offer straightforward, eye-catching, and equipment-free approaches for DIV1 detection in shrimp farms, quarantine stations, and basic laboratories with limited resources, especially in remote and rural regions; the most appropriate method can be chosen based on the practical conditions of the testing site. Furthermore, the results of this study may promote the wide application of DIV1 detection methods based on nucleic acid amplification technology and provide a reference value for monitoring and controlling this new virus in the aquaculture industry.
 
 tags:
 - Source Themes
@@ -34,14 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: 'https://www.mdpi.com/1999-4915/14/12/2752'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
