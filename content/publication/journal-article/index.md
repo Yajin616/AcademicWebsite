@@ -3,10 +3,10 @@ title: "Development and Visualization Improvement for the Rapid Detection of Dec
 authors:
 - admin
 date: "2022-12-14T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/v14122752"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-12-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Viruses, 1*(1)"
+publication: "* Viruses 2022, 14(12), 2752"
 publication_short: ""
 
 abstract: In this study, a novel real-time quantitative recombinase polymerase amplification (qRPA) assay and its instrument-free visualization improvement were described for the rapid detection of DIV1. Optimum primer pairs, suitable reaction temperatures, and probe concentrations of a DIV1-qRPA assay were screened to determine optimal reaction conditions. Then, its ability to detect DIV1 was evaluated and compared with real-time quantitative polymerase chain reactions (qPCRs).
