@@ -24,8 +24,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - course: Research Assistant
+          institution: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
           company_url: ''
           company_logo: org-gc
           location: California
@@ -37,26 +37,26 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: CEO
-          company: GenCoin
+        - course: MEng in Biology and Medicine (Bioengineering)
+          institution: MOE Key Laboratory of Marine Genetics and Breeding, Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Sanya, China
+          date_start: '2020-09-01'
+          date_end: '2023-06-01'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - course: BEng in Environmental Engineering
+          institution: Shanghai University of Engineering and Technology
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Shanghai, China
+          date_start: '2015-09-01'
+          date_end: '2019-06-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '3'
