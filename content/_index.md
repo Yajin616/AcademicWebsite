@@ -20,15 +20,15 @@ sections:
       date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `course`, `institution`, and `date_start`.
+      #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - course: Research Assistant
-          institution: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
+        - title: Research Assistant
+          company: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
           company_url: ''
-          location: California
-          date_start: '2021-01-01'
+          location: Guangzhou, China
+          date_start: '2023-06-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -36,8 +36,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - course: MEng in Biology and Medicine (Bioengineering)
-          institution: MOE Key Laboratory of Marine Genetics and Breeding, Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China
+        - title: MEng in Biology and Medicine (Bioengineering)
+          company: MOE Key Laboratory of Marine Genetics and Breeding, Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China
           company_url: ''
           location: Sanya, China
           date_start: '2020-09-01'
@@ -48,8 +48,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - course: BEng in Environmental Engineering
-          institution: Shanghai University of Engineering and Technology
+        - title: BEng in Environmental Engineering
+          company: Shanghai University of Engineering and Technology
           company_url: ''
           company_logo: org-x
           location: Shanghai, China
