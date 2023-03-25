@@ -16,7 +16,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "* Viruses 2022, 14(12), 2752"
-publication_short: "Viruses is a peer-reviewed, open access journal of virology, published monthly online by MDPI. The American Society for Virology (ASV), Spanish Society for Virology (SEV), Canadian Society for Virology (CSV), Italian Society for Virology (SIV-ISV), Australasian Virology Society (AVS) and others are affiliated with Viruses and their members receive a discount on the article processing charges."
+publication_short: ""
 
 abstract: In this study, a novel real-time quantitative recombinase polymerase amplification (qRPA) assay and its instrument-free visualization improvement were described for the rapid detection of DIV1. Optimum primer pairs, suitable reaction temperatures, and probe concentrations of a DIV1-qRPA assay were screened to determine optimal reaction conditions. Then, its ability to detect DIV1 was evaluated and compared with real-time quantitative polymerase chain reactions (qPCRs).
 
