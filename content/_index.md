@@ -37,9 +37,7 @@ sections:
               * Modelling
               * Deploying
         - title: MEng in Biology and Medicine (Bioengineering)
-          company: MOE Key Laboratory of Marine Genetics and Breeding,  
-          company: Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution,
-          company: Ocean University of China
+          company: Sanya Oceanography Institution, Ocean University of China
           company_url: ''
           location: Sanya, China
           date_start: '2020-09-01'
