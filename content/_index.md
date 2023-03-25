@@ -27,7 +27,6 @@ sections:
         - course: Research Assistant
           institution: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
           company_url: ''
-          company_logo: org-gc
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -40,7 +39,6 @@ sections:
         - course: MEng in Biology and Medicine (Bioengineering)
           institution: MOE Key Laboratory of Marine Genetics and Breeding, Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China
           company_url: ''
-          company_logo: org-gc
           location: Sanya, China
           date_start: '2020-09-01'
           date_end: '2023-06-01'
