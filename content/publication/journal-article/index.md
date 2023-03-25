@@ -38,7 +38,6 @@ url_code: 'https://www.mdpi.com/1999-4915/14/12/2752'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [** **]
   focal_point: ""
   preview_only: false
 
