@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Degree Candidate of Biology and Medicine
+role: Research assistant of China Blue Seed Industry Research Institute (Qingdao)
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: http://www.ouc.edu.cn/main.htm
 
 # Short bio
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include.
 
 # Interests
 interests:
@@ -57,15 +57,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Yajin Xu is currently a master's student in MOE Key Laboratory of Marine Genetics and Breeding, and Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China, China. At present, her responsible research topics mainly include the establishment and optimization of novel practical detection techniques for common pathogens in aquatic economic species and the study of innate immune mechanisms in invertebrates.
+Yajin Xu is currently the research assistant of China Blue Seed Industry Institute (Qingdao), Ocean University of China.
+She graduated with a master's degree from MOE Key Laboratory of Marine Genetics and Breeding, and Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China, China. Her main research topics include the establishment and optimization of novel practical detection techniques for common pathogens in aquatic economic species and the study of innate immune mechanisms in invertebrates.
 {style="text-align: justify;"}
