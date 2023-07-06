@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education and Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -73,7 +73,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
