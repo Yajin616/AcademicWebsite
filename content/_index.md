@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education
+      title: Education and Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
+        - title: Research Assistant of Technology
           company: China Blue Seed Industry Institute (Qingdao), Ocean University of China
           company_url: ''
           location: Qingdao, China
