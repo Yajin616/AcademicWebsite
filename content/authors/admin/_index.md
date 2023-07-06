@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: Research Assistant
-      institution: PearlRiver Fisheries Research Institute, Chinese Academy of Fishery Sciences
+      institution: China Blue Seed Industry Institute (Qingdao), Ocean University of China
       year: 2023-2024
     - course: MEng in Biology and Medicine (Bioengineering)
       institution: Ocean University of China
