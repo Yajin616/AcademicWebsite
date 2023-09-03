@@ -24,12 +24,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant of Technology
-          company: China Blue Seed Industry Institute (Qingdao), Ocean University of China
+        - title: Intern of Sub-Regional Office for West Africa
+          company: Food and Agriculture Organization of the United Nations
           company_url: ''
-          location: Qingdao, China
-          date_start: '2023-07-01'
-          date_end: ''
+          location: Dakar, Senegal
+          date_start: '2023-11-01'
+          date_end: '2024-06-01'
         - title: MEng in Biology and Medicine (Bioengineering)
           company: Sanya Oceanography Institution, Ocean University of China
           company_url: 'http://soi.ouc.edu.cn'
