@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Yajin Xu is currently the research assistant of China Blue Seed Industry Institute (Qingdao), Ocean University of China.
-She graduated with a master's degree from MOE Key Laboratory of Marine Genetics and Breeding, and Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China, China. Her main research topics include the establishment and optimization of novel practical detection techniques for common pathogens in aquatic economic species and the study of innate immune mechanisms in invertebrates.
+Yajin Xu is currently the intern of Sub-Regional Office for West Africa, Food and Agriculture Organization of the United Nations.
+She graduated with a master's degree from MOE Key Laboratory of Marine Genetics and Breeding, and Key Laboratory of Tropical Aquatic Germplasm of Hainan Province of Sanya Oceanographic Institution, Ocean University of China, China. Her main research topics of master include the establishment and optimization of novel practical detection techniques for common pathogens in aquatic economic species and the study of innate immune mechanisms in invertebrates. She is currently applying for her doctoral course and hopes to continue to conduct deeper research in the field of viruses detection.
 {style="text-align: justify;"}
