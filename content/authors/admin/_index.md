@@ -30,7 +30,7 @@ interests:
   - Construction of novel detection method for pathogens
   - Optimization of breeding technology for disease resistance
 
-# Education
+# Education & Experience
 education:
   courses:
     - course: Intern of FAO-SFW
