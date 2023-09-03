@@ -26,7 +26,7 @@ bio: My research interests include.
 
 # Interests
 interests:
-  - Mechanisms of innate immunity in aquatic animals
+  - Mechanisms of innate immunity in aquatic animals 
   - Construction of novel detection method for pathogens
   - Optimization of breeding technology for disease resistance
 
