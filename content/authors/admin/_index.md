@@ -8,18 +8,18 @@ last_name: Xu
 
 # Status emoji
 status:
-  icon: 📖
+  icon: 🐝
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research assistant of China Blue Seed Industry Research Institute (Qingdao)
+role: Intern of Sub-Regional Office for West Africa
 
 # Organizations/Affiliations
 organizations:
-  - name: Ocean University of China
-    url: http://www.ouc.edu.cn/main.htm
+  - name:Food and Agriculture Organization of the United Nations
+    url: https://www.fao.org/home/en
 
 # Short bio
 bio: My research interests include.
@@ -33,8 +33,8 @@ interests:
 # Education
 education:
   courses:
-    - course: Research Assistant
-      institution: China Blue Seed Industry Institute (Qingdao), Ocean University of China
+    - course: Intern of FAO-SFW
+      institution: Food and Agriculture Organization of the United Nations, Sub-Regional Office for West Africa
       year: 2023-2024
     - course: MEng in Biology and Medicine (Bioengineering)
       institution: Ocean University of China
