@@ -18,7 +18,7 @@ role: Intern of Sub-Regional Office for West Africa
 
 # Organizations/Affiliations
 organizations:
-  - name:Food and Agriculture Organization of the United Nations
+  - name: Food and Agriculture Organization of the United Nations
     url: https://www.fao.org/home/en
 
 # Short bio
