@@ -26,7 +26,7 @@ sections:
       items:
         - title: Intern of Sub-Regional Office for West Africa
           company: Food and Agriculture Organization of the United Nations
-          company_url: ''
+          company_url: 'https://www.fao.org/home/en'
           location: Dakar, Senegal
           date_start: '2023-11-01'
           date_end: '2024-06-01'
