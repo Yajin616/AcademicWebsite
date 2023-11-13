@@ -57,10 +57,15 @@ Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (
 
 - **Probe Design:**
   a. Probe Type: RPA-LFD often uses a probe for detecting the amplified product. Consider using a fluorescent probe or a biotin-labeled probe.
+  
   b. Positioning: Design the probe to bind specifically within the amplified region.
+  
   c. Length: Typically, RPA-LFD probes are 20-25 nucleotides in length.
+  
   d. Quencher: Use a quencher molecule to reduce background signal.
+  
   e. Fluorophore: Attach a fluorophore at the 5' end for signal detection in fluorescent-based LFD assays.
+  
   f. Biotinylation: If using a biotin-labeled probe, ensure biotin is incorporated at the 5' or 3' end.
 
 - **Cross-Reactivity Assessment:** Perform in silico analysis to check for potential cross-reactivity with non-target sequences. Tools like BLAST can help identify potential issues.
