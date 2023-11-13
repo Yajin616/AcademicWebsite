@@ -41,7 +41,7 @@ tags:
 
 Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (LFD) is a powerful molecular biology technique for rapid and sensitive nucleic acid detection. This article provides a comprehensive guide on how to design the primers and probes for RPA-LFD, a crucial step in developing a successful assay.
 
-## Features
+## Steps
 
 - **Understand the Basics of RPA-LFD:** Before designing primers and probes, it's essential to grasp the fundamental principles of RPA-LFD. RPA is an isothermal nucleic acid amplification technique that uses recombinase enzymes to facilitate primer binding and polymerase for amplification. LFD is a visual detection method based on antibody-antigen interactions. Combining RPA and LFD enables the rapid detection of specific DNA or RNA sequences.
   
