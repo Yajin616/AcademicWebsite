@@ -32,7 +32,7 @@ tags:
 
 ## Introduction
 
-     Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (LFD) is a powerful molecular biology technique for rapid and sensitive nucleic acid detection. This article provides a comprehensive guide on how to design the primers and probes for RPA-LFD, a crucial step in developing a successful assay.
+Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (LFD) is a powerful molecular biology technique for rapid and sensitive nucleic acid detection. This article provides a comprehensive guide on how to design the primers and probes for RPA-LFD, a crucial step in developing a successful assay.
 
 ## Steps
 
@@ -78,4 +78,4 @@ tags:
   
 ## Conclusion:
 
-     Designing primers and probes for RPA-LFD is a critical aspect of developing a successful nucleic acid detection assay. Careful consideration of primer and probe design parameters, target selection, and validation steps will help ensure the specificity and sensitivity of the assay, making it a valuable tool for a wide range of applications, including pathogen detection and diagnostic testing.
+Designing primers and probes for RPA-LFD is a critical aspect of developing a successful nucleic acid detection assay. Careful consideration of primer and probe design parameters, target selection, and validation steps will help ensure the specificity and sensitivity of the assay, making it a valuable tool for a wide range of applications, including pathogen detection and diagnostic testing.
