@@ -27,7 +27,7 @@ tags:
 
 ---
 
-## Important Notes
+## Tips
 
 Be clear and specific about your research questions, methods, and expected outcomes.
 Highlight the novelty of your research and how it contributes to the field.
@@ -38,54 +38,73 @@ Revise and refine your proposal multiple times.
 
 ## Sections
 
-- **Title:**
+- **Title**
 
   Provide a clear and concise title that reflects the focus of your research proposal.
   
-- **Abstract:**
+- **Abstract**
   
-  Summarize your entire proposal in a concise manner.
+  Summarize your entire proposal in a concise manner (typically 200-300 words).
   
   Include the research question, objectives, methodology, and potential outcomes.
   
   Don't forget to list keywords.
   
-  My personal suggestion is to write this part after completing the entire research proposal.
+  (My personal suggestion is to write this part after completing the entire research proposal.)
 
-- **Contents:**
+- **Introduction**
   
-   a. Primer Length: RPA primers are typically 30-35 nucleotides in length.
-  
-   b. GC Content: Aim for a GC content of 30-60%.
-  
-   c. Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
-  
-   d. Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
-  
-   e. Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
-  
-   f. Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
+  Provide an overview of the research problem, its significance, and the broader context in your research field.
 
-- **Probe Design:**
-  
-  a. Probe Type: RPA-LFD often uses a probe for detecting the amplified product. Consider using a fluorescent probe or a biotin-labeled probe.
-  
-  b. Positioning: Design the probe to bind specifically within the amplified region.
-  
-  c. Length: Typically, RPA-LFD probes are 20-25 nucleotides in length.
-  
-  d. Quencher: Use a quencher molecule to reduce background signal.
-  
-  e. Fluorophore: Attach a fluorophore at the 5' end for signal detection in fluorescent-based LFD assays.
-  
-  f. Biotinylation: If using a biotin-labeled probe, ensure biotin is incorporated at the 5' or 3' end.
+  State your research question and objectives clearly.
 
-- **Cross-Reactivity Assessment:** Perform in silico analysis to check for potential cross-reactivity with non-target sequences. Tools like BLAST can help identify potential issues.
-  
-- **Testing and Validation:** Design and test multiple primer and probe sets in the lab to identify the most effective combination. Use positive and negative controls to validate the assay's specificity and sensitivity.
+- **Literature Review**
 
-- **Modifications for LFD:** - Modify the probe for LFD detection by adding a capture antibody and visualization reagents. The interaction between the probe and the capture antibody will produce a visible signal on the LFD.
+  Summarize relevant literature to establish the context and justify your research.
+
+  Identify gaps in existing knowledge that your research will address.
+
+  Cite key studies, theories, and findings.
+
+- **Research Objectives and Hypotheses/Questions**
   
-- **Optimize Reaction Conditions:** Optimize the RPA-LFD reaction conditions, including temperature, time, and reagent concentrations, to achieve the best results.
+  Clearly define the specific objectives or hypotheses your research aims to address.
   
-## Good luck with your research proposal!
+  Formulate research questions that align with your objectives.
+
+- **Methodology**
+  
+  Describe the research methods and techniques you plan to use.
+  
+  Justify the choice of these methods, explaining why they are appropriate for your research.
+  
+  Include details on data collection, sample size, experimental design, statistical analyses, and any other relevant information.
+  
+- **Expected Outcomes and Significance**
+  
+  Explain the potential outcomes of your research.
+  
+  Discuss the significance of your research in the broader context of biology and its potential impact on the field.
+
+- **Research Plan and Timeline** -
+  
+  Provide a detailed timeline indicating the sequence of activities and milestones.
+  
+  Specify the estimated time for each task, such as literature review, data collection, analysis, and writing.
+  
+- **Budget and Resources**
+  
+  List the resources you will need, including laboratory equipment, materials, software, and any necessary funding.
+
+  Explain how you plan to obtain these resources.
+  
+  - **References**
+  
+  Include a comprehensive list of all the sources cited in your proposal, following a consistent citation style (e.g., APA, MLA, or the style recommended by your institution).
+
+  - **Appendices (if necessary)**
+  
+  Attach any additional documents, such as survey questionnaires, permits, or supplementary information.
+  
+## Notes
+Remember, your doctoral research proposal is a crucial document that should convince your academic committee of the feasibility and significance of your research project. It should be well-structured, well-reasoned, and persuasively written. Good luck with your research proposal!
