@@ -30,10 +30,15 @@ tags:
 ## Tips
 
 Be clear and specific about your research questions, methods, and expected outcomes.
+
 Highlight the novelty of your research and how it contributes to the field.
+
 Ensure that your research proposal aligns with the research interests of the program and potential supervisors.
+
 Each institution might have its specific requirements, check their guidelines or sample proposals if available.
+
 Discuss your proposal with your potential supervisor or mentors.
+
 Revise and refine your proposal multiple times. 
 
 ## Sections
