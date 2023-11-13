@@ -1,5 +1,6 @@
 ---
 title: How to write a PhD research proposal?
+
 subtitle: Writing a good PhD research proposal is a critical step in the process of pursuing PhD. Here is a step-by-step guide I have compiled on how to write a comprehensive research proposal, hoping it can help applicants in need:
 
 # Date published
@@ -43,6 +44,7 @@ Revise and refine your proposal multiple times.
   Provide a clear and concise title that reflects the focus of your research proposal.
   
 - **Abstract:**
+  
   Summarize your entire proposal in a concise manner.
   
   Include the research question, objectives, methodology, and potential outcomes.
