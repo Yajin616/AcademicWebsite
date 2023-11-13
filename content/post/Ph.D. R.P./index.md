@@ -1,15 +1,12 @@
 ---
-title: Designing Primers and Probes for Recombinase Polymerase Amplification Combined with Lateral Flow Dipstick (RPA-LFD)
-subtitle: This is a sharing of basic knowledge related to the steps and key points for designing RPA-LFD primers and probes, hoping to help those researchers who need it in this regard.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: How to write a PhD research proposal?
+subtitle: Writing a good PhD research proposal is a critical step in the process of pursuing PhD. Here is a step-by-step guide I have compiled on how to write a comprehensive research proposal, hoping it can help applicants in need:
 
 # Date published
-date: '2022-10-13T00:00:00Z'
+date: '2022-06-16T00:00:00Z'
 
 # Date updated
-lastmod: '2022-10-13T00:00:00Z'
+lastmod: '2022-06-16T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,17 +27,40 @@ tags:
 
 ---
 
-## Introduction
+## Important Notes
 
-     Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (LFD) is a powerful molecular biology technique for rapid and sensitive nucleic acid detection. This article provides a comprehensive guide on how to design the primers and probes for RPA-LFD, a crucial step in developing a successful assay.
+Be clear and specific about your research questions, methods, and expected outcomes.
 
-## Steps
+Highlight the novelty of your research and how it contributes to the field.
 
-- **Understand the Basics of RPA-LFD:** Before designing primers and probes, it's essential to grasp the fundamental principles of RPA-LFD. RPA is an isothermal nucleic acid amplification technique that uses recombinase enzymes to facilitate primer binding and polymerase for amplification. LFD is a visual detection method based on antibody-antigen interactions. Combining RPA and LFD enables the rapid detection of specific DNA or RNA sequences.
+Ensure that your research proposal aligns with the research interests of the program and potential supervisors.
+
+Each institution might have its specific requirements, check their guidelines or sample proposals if available.
+
+Discuss your proposal with your potential supervisor or mentors.
+
+Revise and refine your proposal multiple times. 
+
+Good luck with your research proposal!
+
+## Sections
+
+- **Title:**
+
+  Provide a clear and concise title that reflects the focus of your research proposal.
   
-- **Target Selection:** Selecting the target sequence is a critical step in primer and probe design. Ensure that the target is unique, conserved within the sample, and free from secondary structures that can impede primer binding.
+- **Abstract:**
+  Summarize your entire proposal in a concise manner.
   
-- **Primer Design:**
+  Include the research question, objectives, methodology, and potential outcomes.
+  
+  Don't forget to list keywords.
+  
+  My personal suggestion is to write this part after completing the entire research proposal.
+  
+- **Contents:**
+
+- **Contents:**
   
    a. Primer Length: RPA primers are typically 30-35 nucleotides in length.
   
