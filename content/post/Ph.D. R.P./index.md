@@ -86,7 +86,7 @@ Revise and refine your proposal multiple times.
   
   Discuss the significance of your research in the broader context of biology and its potential impact on the field.
 
-- **Research Plan and Timeline** -
+- **Research Plan and Timeline** 
   
   Provide a detailed timeline indicating the sequence of activities and milestones.
   
@@ -98,11 +98,11 @@ Revise and refine your proposal multiple times.
 
   Explain how you plan to obtain these resources.
   
-  - **References**
+- **References**
   
   Include a comprehensive list of all the sources cited in your proposal, following a consistent citation style (e.g., APA, MLA, or the style recommended by your institution).
 
-  - **Appendices (if necessary)**
+- **Appendices (if necessary)**
   
   Attach any additional documents, such as survey questionnaires, permits, or supplementary information.
   
