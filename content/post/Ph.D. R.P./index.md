@@ -30,18 +30,11 @@ tags:
 ## Important Notes
 
 Be clear and specific about your research questions, methods, and expected outcomes.
-
 Highlight the novelty of your research and how it contributes to the field.
-
 Ensure that your research proposal aligns with the research interests of the program and potential supervisors.
-
 Each institution might have its specific requirements, check their guidelines or sample proposals if available.
-
 Discuss your proposal with your potential supervisor or mentors.
-
 Revise and refine your proposal multiple times. 
-
-Good luck with your research proposal!
 
 ## Sections
 
@@ -57,8 +50,6 @@ Good luck with your research proposal!
   Don't forget to list keywords.
   
   My personal suggestion is to write this part after completing the entire research proposal.
-  
-- **Contents:**
 
 - **Contents:**
   
@@ -96,6 +87,4 @@ Good luck with your research proposal!
   
 - **Optimize Reaction Conditions:** Optimize the RPA-LFD reaction conditions, including temperature, time, and reagent concentrations, to achieve the best results.
   
-## Conclusion:
-
-     Designing primers and probes for RPA-LFD is a critical aspect of developing a successful nucleic acid detection assay. Careful consideration of primer and probe design parameters, target selection, and validation steps will help ensure the specificity and sensitivity of the assay, making it a valuable tool for a wide range of applications, including pathogen detection and diagnostic testing.
+## Good luck with your research proposal!
