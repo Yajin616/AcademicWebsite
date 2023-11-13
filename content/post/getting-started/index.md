@@ -42,17 +42,17 @@ Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (
   
 - **Primer Design:**
   
- a. Primer Length: RPA primers are typically 30-35 nucleotides in length.
-
- b. GC Content: Aim for a GC content of 30-60%.
- 
- c. Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
- 
- d. Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
- 
- e. Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
- 
- f. Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
+   a. Primer Length: RPA primers are typically 30-35 nucleotides in length.
+  
+   b. GC Content: Aim for a GC content of 30-60%.
+  
+   c. Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
+  
+   d. Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
+  
+   e. Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
+  
+   f. Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
 
 - **Probe Design:**
   
