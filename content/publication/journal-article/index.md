@@ -1,5 +1,5 @@
 ---
-title: "Development and Visualization Improvement for the Rapid Detection of Decapod Iridescent Virus 1 (DIV1) in _Penaeus vannamei_ Based on an Isothermal Recombinase Polymerase Amplification Assay"
+title: "Development and Visualization Improvement for the Rapid Detection of Decapod Iridescent Virus 1 (DIV1) in Penaeus vannamei Based on an Isothermal Recombinase Polymerase Amplification Assay"
 authors:
 - admin
 date: "2022-12-14T00:00:00Z"
