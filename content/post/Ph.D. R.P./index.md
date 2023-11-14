@@ -49,11 +49,11 @@ Revise and refine your proposal multiple times.
   
 - **Abstract**
   
-  *Summarize your entire proposal in a concise manner (typically 200-300 words).
+  * Summarize your entire proposal in a concise manner (typically 200-300 words).
   
-  *Include the research question, objectives, methodology, and potential outcomes.
+  * Include the research question, objectives, methodology, and potential outcomes.
   
-  *Don't forget to list keywords.
+  * Don't forget to list keywords.
   
   (My personal suggestion is to write this part after completing the entire research proposal.)
 
