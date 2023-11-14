@@ -1,5 +1,6 @@
 ---
-title: Designing Primers and Probes for Recombinase Polymerase Amplification Combined with Lateral Flow Dipstick (RPA-LFD)
+title: Designing primers and probes for recombinase polymerase amplification combined with lateral flow dipstick (RPA-LFD)
+
 subtitle: This is a sharing of basic knowledge related to the steps and key points for designing RPA-LFD primers and probes, hoping to help those researchers who need it in this regard.
 
 # Summary for listings and search engines
