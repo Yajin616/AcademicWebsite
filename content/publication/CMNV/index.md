@@ -1,9 +1,9 @@
 ---
-title: "Development and Visualization Improvement for the Rapid Detection of Decapod Iridescent Virus 1 (DIV1) in Penaeus vannamei Based on an Isothermal Recombinase Polymerase Amplification Assay"
+title: "The development of a novel quantitative assay for the detection of convert mortality nodavirus (CMNV) in Litopenaeus vannamei"
 authors:
 - admin
-date: "2022-12-14T00:00:00Z"
-doi: "https://doi.org/10.3390/v14122752"
+date: "2023-7-27T00:00:00Z"
+doi: "https://doi.org/10.1016/j.aquaculture.2023.739923"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-12-09T00:00:00Z"
@@ -15,10 +15,10 @@ publishDate: "2022-12-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Viruses 2022, 14(12), 2752"
+publication: "* Aquaculture Volume 577, 15 December 2023, 739923"
 publication_short: ""
 
-abstract: In this study, a novel real-time quantitative recombinase polymerase amplification (qRPA) assay and its instrument-free visualization improvement were described for the rapid detection of DIV1. Optimum primer pairs, suitable reaction temperatures, and probe concentrations of a DIV1-qRPA assay were screened to determine optimal reaction conditions. Then, its ability to detect DIV1 was evaluated and compared with real-time quantitative polymerase chain reactions (qPCRs). The sensitivity tests demonstrated that the limit of detection (LOD) of the DIV1-qRPA assay was 1.0 copies/μL. Additionally, the presentation of the detection results was improved with SYBR Green I, and the LOD of the DIV1-RPA-SYBR Green I assay was 1.0 × 10^3 copies/μL. Both the DIV1-qRPA and DIV1-RPA-SYBR Green I assays could be performed at 42 °C within 20 min and without cross-reactivity with other common pathogens.
+abstract: Due to the viral covert mortality disease (VCMD), a new disease brought on by covert mortality nodavirus (CMNV), the Litopenaeus vannamei aquaculture industry in China and Southeast Asian countries have experienced major economic losses over the past ten years. A rapid and accurate on-site pre-detection plays as the first step and a critical part in the efficient control of VCMD spreads and outbreaks. For the rapid and accurate on-site detection of CMNV, a novel real-time quantitative assay based on quantitative recombinase polymerase amplification (qRPA) was developed in this study. By optimizing the optimum primer pairs based on the conserved RNA-dependent RNA polymerase (RdRp) genes, appropriate reaction temperatures, and probe dosages. It was possible to perform the CMNV-qRPA test at 42 °C in 20 min without exhibiting any cross-reactivity with the four major aquatic infections. Then its ability was compared to real-time quantitative PCR (qPCR) as well as nested PCR assays for detection of CMNV. As results of the sensitivity tests, the limit of detection (LOD) for the CMNV-qRPA, CMNV nested PCR, and CMNV qPCR assays were 5.5 × 102 copies μL−1, 5.5 copies μL−1 and 5.5 × 102 copies μL−1, respectively. Based on these results, it is demonstrated that the CMNV-qRPA assay developed in this study is both sensitive and specific for the rapid on-site pre-diagnosis of CMNV. Those findings were also demonstrated the application potential of CMNV-qRPA assay for efficiently preventing and controlling the spread and outbreak of VCMD in the aquaculture industry and application prospect of this diagnosis method in other related fields.
 
 # Summary. An optional shortened abstract.
 summary: We developed a highly sensitive and specific real-time quantitative RPA assay and improved its instrument-free visualization for rapidly detecting DIV1. The LOD of the DIV1-qRPA assay reached 1.0 copies μL−1, which was higher than the LOD of qPCR and qLAMP, and the visual detecting limitation of the instrument-free DIV1-RPA-SYBR Green I assay was 1.0 × 10^3 copies/μL. Both assays could be performed at 42 °C within 20 min and had no cross-reactivity with WSSV, VpAHPND, EHP, or IHHNV. These two methods offer straightforward, eye-catching, and equipment-free approaches for DIV1 detection in shrimp farms, quarantine stations, and basic laboratories with limited resources, especially in remote and rural regions; the most appropriate method can be chosen based on the practical conditions of the testing site. Furthermore, the results of this study may promote the wide application of DIV1 detection methods based on nucleic acid amplification technology and provide a reference value for monitoring and controlling this new virus in the aquaculture industry.
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_code: 'https://www.mdpi.com/1999-4915/14/12/2752'
+url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S004484862300697X'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -65,3 +65,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
