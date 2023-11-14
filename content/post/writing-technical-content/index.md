@@ -1,10 +1,10 @@
 ---
 title: Make Your First Academic Poster
 
-subtitle: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
+subtitle: Academic posters marks an essential step in sharing research insights for many researchers. This guide is tailored to assist you in creating your inaugural academic poster. Let’s embark on this enlightening journey together!
 
 # Summary for listings and search engines
-summary: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
+summary: Academic posters marks an essential step in sharing research insights for many researchers. This guide is tailored to assist you in creating your inaugural academic poster. Let’s embark on this enlightening journey together!
 
 # Date published
 date: '2022-10-13T00:00:00Z'
