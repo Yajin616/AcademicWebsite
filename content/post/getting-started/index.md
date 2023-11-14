@@ -42,31 +42,31 @@ Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (
   
 - **Primer Design:**
   
-   a. Primer Length: RPA primers are typically 30-35 nucleotides in length.
+   * Primer Length: RPA primers are typically 30-35 nucleotides in length.
   
-   b. GC Content: Aim for a GC content of 30-60%.
+   * GC Content: Aim for a GC content of 30-60%.
   
-   c. Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
+   * Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
   
-   d. Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
+   * Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
   
-   e. Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
+   * Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
   
-   f. Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
+   * Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
 
 - **Probe Design:**
   
-  a. Probe Type: RPA-LFD often uses a probe for detecting the amplified product. Consider using a fluorescent probe or a biotin-labeled probe.
+  * Probe Type: RPA-LFD often uses a probe for detecting the amplified product. Consider using a fluorescent probe or a biotin-labeled probe.
   
-  b. Positioning: Design the probe to bind specifically within the amplified region.
+  * Positioning: Design the probe to bind specifically within the amplified region.
   
-  c. Length: Typically, RPA-LFD probes are 20-25 nucleotides in length.
+  * Length: Typically, RPA-LFD probes are 20-25 nucleotides in length.
   
-  d. Quencher: Use a quencher molecule to reduce background signal.
+  * Quencher: Use a quencher molecule to reduce background signal.
   
-  e. Fluorophore: Attach a fluorophore at the 5' end for signal detection in fluorescent-based LFD assays.
+  * Fluorophore: Attach a fluorophore at the 5' end for signal detection in fluorescent-based LFD assays.
   
-  f. Biotinylation: If using a biotin-labeled probe, ensure biotin is incorporated at the 5' or 3' end.
+  * Biotinylation: If using a biotin-labeled probe, ensure biotin is incorporated at the 5' or 3' end.
 
 - **Cross-Reactivity Assessment:** Perform in silico analysis to check for potential cross-reactivity with non-target sequences. Tools like BLAST can help identify potential issues.
   
