@@ -3,6 +3,9 @@ title: How to write a good PhD research proposal?
 
 subtitle: Writing a good PhD research proposal is a critical step in the process of pursuing PhD. Here is a step-by-step guide I have compiled on how to write a comprehensive research proposal, hoping it can help applicants in need.
 
+# Summary for listings and search engines
+summary: Writing a good PhD research proposal is a critical step in the process of pursuing PhD. Here is a step-by-step guide I have compiled on how to write a comprehensive research proposal, hoping it can help applicants in need.
+
 # Date published
 date: '2022-06-16T00:00:00Z'
 
