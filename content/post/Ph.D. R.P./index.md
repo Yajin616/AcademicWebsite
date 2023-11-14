@@ -49,27 +49,27 @@ Revise and refine your proposal multiple times.
   
 - **Abstract**
   
-  Summarize your entire proposal in a concise manner (typically 200-300 words).
+  *Summarize your entire proposal in a concise manner (typically 200-300 words).
   
-  Include the research question, objectives, methodology, and potential outcomes.
+  *Include the research question, objectives, methodology, and potential outcomes.
   
-  Don't forget to list keywords.
+  *Don't forget to list keywords.
   
   (My personal suggestion is to write this part after completing the entire research proposal.)
 
 - **Introduction**
   
-  Provide an overview of the research problem, its significance, and the broader context in your research field.
+  a. Provide an overview of the research problem, its significance, and the broader context in your research field.
 
-  State your research question and objectives clearly.
+  b. State your research question and objectives clearly.
 
 - **Literature Review**
 
-  Summarize relevant literature to establish the context and justify your research.
+  a. Summarize relevant literature to establish the context and justify your research.
 
-  Identify gaps in existing knowledge that your research will address.
+  b. Identify gaps in existing knowledge that your research will address.
 
-  Cite key studies, theories, and findings.
+  c. Cite key studies, theories, and findings.
 
 - **Research Objectives and Hypotheses/Questions**
   
