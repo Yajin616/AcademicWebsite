@@ -59,49 +59,49 @@ Revise and refine your proposal multiple times.
 
 - **Introduction**
   
-  a. Provide an overview of the research problem, its significance, and the broader context in your research field.
+  * Provide an overview of the research problem, its significance, and the broader context in your research field.
 
-  b. State your research question and objectives clearly.
+  * State your research question and objectives clearly.
 
 - **Literature Review**
 
-  a. Summarize relevant literature to establish the context and justify your research.
+  * Summarize relevant literature to establish the context and justify your research.
 
-  b. Identify gaps in existing knowledge that your research will address.
+  * Identify gaps in existing knowledge that your research will address.
 
-  c. Cite key studies, theories, and findings.
+  * Cite key studies, theories, and findings.
 
 - **Research Objectives and Hypotheses/Questions**
   
-  Clearly define the specific objectives or hypotheses your research aims to address.
+  * Clearly define the specific objectives or hypotheses your research aims to address.
   
-  Formulate research questions that align with your objectives.
+  * Formulate research questions that align with your objectives.
 
 - **Methodology**
   
-  Describe the research methods and techniques you plan to use.
+  * Describe the research methods and techniques you plan to use.
   
-  Justify the choice of these methods, explaining why they are appropriate for your research.
+  * Justify the choice of these methods, explaining why they are appropriate for your research.
   
-  Include details on data collection, sample size, experimental design, statistical analyses, and any other relevant information.
+  * Include details on data collection, sample size, experimental design, statistical analyses, and any other relevant information.
   
 - **Expected Outcomes and Significance**
   
-  Explain the potential outcomes of your research.
+  * Explain the potential outcomes of your research.
   
-  Discuss the significance of your research in the broader context of biology and its potential impact on the field.
+  * Discuss the significance of your research in the broader context of biology and its potential impact on the field.
 
 - **Research Plan and Timeline** 
   
-  Provide a detailed timeline indicating the sequence of activities and milestones.
+  * Provide a detailed timeline indicating the sequence of activities and milestones.
   
-  Specify the estimated time for each task, such as literature review, data collection, analysis, and writing.
+  * Specify the estimated time for each task, such as literature review, data collection, analysis, and writing.
   
 - **Budget and Resources**
   
-  List the resources you will need, including laboratory equipment, materials, software, and any necessary funding.
+  * List the resources you will need, including laboratory equipment, materials, software, and any necessary funding.
 
-  Explain how you plan to obtain these resources.
+  * Explain how you plan to obtain these resources.
   
 - **References**
   
