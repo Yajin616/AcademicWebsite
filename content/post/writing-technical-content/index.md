@@ -1,9 +1,9 @@
 ---
 title: Make Your First Academic Poster
-subtitle: This is a sharing of basic knowledge related to the steps and key points for designing RPA-LFD primers and probes, hoping to help those researchers who need it in this regard.
+subtitle: Embarking on the academic journey, researchers encounter a pivotal milestone: crafting academic posters. For many, this marks an essential step in sharing research insights. Are you new to this endeavor? Fear not! This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Embarking on the academic journey, researchers encounter a pivotal milestone: crafting academic posters. For many, this marks an essential step in sharing research insights. Are you new to this endeavor? Fear not! This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
 
 # Date published
 date: '2022-10-13T00:00:00Z'
