@@ -1,10 +1,10 @@
 ---
 title: Make Your First Academic Poster
 
-subtitle: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. Are you new to this endeavor? Fear not! This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
+subtitle: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
 
 # Summary for listings and search engines
-summary: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. Are you new to this endeavor? Fear not! This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
+summary: Embarking on the academic journey, researchers encounter a pivotal milestone--crafting academic posters. For many, this marks an essential step in sharing research insights. This guide is tailored to assist you in creating your inaugural academic poster, navigating the process with ease and confidence. Let’s embark on this enlightening journey together!
 
 # Date published
 date: '2022-10-13T00:00:00Z'
@@ -31,31 +31,31 @@ tags:
 
 ---
 
-## Introduction
+## Tips
 
-Recombinase Polymerase Amplification (RPA) combined with Lateral Flow Dipstick (LFD) is a powerful molecular biology technique for rapid and sensitive nucleic acid detection. This article provides a comprehensive guide on how to design the primers and probes for RPA-LFD, a crucial step in developing a successful assay.
+**Simplicity:** Keep content concise, avoiding information overload.
+
+**Visuals:** Use high-quality images and graphics to enhance comprehension.
+
+**Consistency:** Maintain consistent formatting, font styles, and colors for a cohesive look.
+
+**Engagement:** Consider adding QR codes or supplementary materials for further information.
 
 ## Steps
 
-- **Understand the Basics of RPA-LFD:** Before designing primers and probes, it's essential to grasp the fundamental principles of RPA-LFD. RPA is an isothermal nucleic acid amplification technique that uses recombinase enzymes to facilitate primer binding and polymerase for amplification. LFD is a visual detection method based on antibody-antigen interactions. Combining RPA and LFD enables the rapid detection of specific DNA or RNA sequences.
+- **Understand the Purpose and Audience:** Determine the goal of your poster—presenting research findings, a project overview, etc. Tailor the content and design to suit the audience's level of expertise and interest.
   
-- **Target Selection:** Selecting the target sequence is a critical step in primer and probe design. Ensure that the target is unique, conserved within the sample, and free from secondary structures that can impede primer binding.
+- **Plan and Organize:** Decide on the main points to include—Introduction, Methods, Results, Conclusion. Then,  establish a clear flow that guides the viewer through your information.
   
-- **Primer Design:**
+- **Content and Layout:**
   
-   * Primer Length: RPA primers are typically 30-35 nucleotides in length.
+   * Title and Introduction: A concise title, authors' names, affiliations, and a brief introduction to the topic.
   
-   * GC Content: Aim for a GC content of 30-60%.
+   * Methods, Results, Discussion: Present these sections using bullet points, graphs, charts, or visuals.
   
-   * Tm (Melting Temperature): Calculate the Tm of primers to ensure they have similar melting temperatures.
+   * Conclusion or Summary: Summarize key findings and implications.
   
-   * Avoid Self-Complementarity: Check for self-complementarity and primer-dimer formation.
-  
-   * Target Proximity: Place primers 100-300 base pairs apart for optimal amplification.
-  
-   * Include RPA Excluder: Incorporate an RPA excluder sequence at the 5' end of one primer to prevent amplification of non-target sequences.
-
-- **Probe Design:**
+- **Design and Visual Elements:**
   
   * Probe Type: RPA-LFD often uses a probe for detecting the amplified product. Consider using a fluorescent probe or a biotin-labeled probe.
   
