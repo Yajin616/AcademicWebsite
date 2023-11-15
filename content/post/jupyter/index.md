@@ -1,77 +1,115 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+title: How to write a good PhD research proposal?
+subtitle: Writing a good PhD research proposal is a critical step in the process of pursuing PhD. Here is a step-by-step guide I have compiled on how to write a comprehensive research proposal, hoping it can help applicants in need.
+
+# Date published
+date: '2022-06-16T00:00:00Z'
+
+# Date updated
+lastmod: '2022-06-16T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+
 authors:
   - admin
-tags: []
-categories: []
-projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
-image:
-  caption: ''
-  focal_point: ''
+
+tags:
+  - Academic
+  - 开源
+
 ---
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+## Tips
 
-![png](./index_1_0.png)
+Be clear and specific about your research questions, methods, and expected outcomes.
 
-```python
-print("Welcome to Academic!")
-```
+Highlight the novelty of your research and how it contributes to the field.
 
-    Welcome to Academic!
+Ensure that your research proposal aligns with the research interests of the program and potential supervisors.
 
-## Install Python and JupyterLab
+Each institution might have its specific requirements, check their guidelines or sample proposals if available.
 
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+Discuss your proposal with your potential supervisor or mentors.
 
-Alternatively, install JupyterLab with `pip3 install jupyterlab`.
+Revise and refine your proposal multiple times. 
 
-## Create or upload a Jupyter notebook
+## Sections
 
-Run the following commands in your Terminal, substituting `<MY-WEBSITE-FOLDER>` and `<SHORT-POST-TITLE>` with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:
+- **Title**
 
-```bash
-mkdir -p <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-cd <MY-WEBSITE-FOLDER>/content/post/<SHORT-POST-TITLE>/
-jupyter lab index.ipynb
-```
+  Provide a clear and concise title that reflects the focus of your research proposal.
+  
+- **Abstract**
+  
+  * Summarize your entire proposal in a concise manner (typically 200-300 words).
+  
+  * Include the research question, objectives, methodology, and potential outcomes.
+  
+  * Don't forget to list keywords.
+  
+  (My personal suggestion is to write this part after completing the entire research proposal.)
 
-The `jupyter` command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.
+- **Introduction**
+  
+  * Provide an overview of the research problem, its significance, and the broader context in your research field.
 
-## Edit your post metadata
+  * State your research question and objectives clearly.
 
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+- **Literature Review**
 
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:
+  * Summarize relevant literature to establish the context and justify your research.
 
-```
----
-title: My post's title
-date: 2019-09-01
+  * Identify gaps in existing knowledge that your research will address.
 
-# Put any other Academic metadata here...
----
-```
+  * Cite key studies, theories, and findings.
 
-Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
+- **Research Objectives and Hypotheses/Questions**
+  
+  * Clearly define the specific objectives or hypotheses your research aims to address.
+  
+  * Formulate research questions that align with your objectives.
 
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
+- **Methodology**
+  
+  * Describe the research methods and techniques you plan to use.
+  
+  * Justify the choice of these methods, explaining why they are appropriate for your research.
+  
+  * Include details on data collection, sample size, experimental design, statistical analyses, and any other relevant information.
+  
+- **Expected Outcomes and Significance**
+  
+  * Explain the potential outcomes of your research.
+  
+  * Discuss the significance of your research in the broader context of biology and its potential impact on the field.
 
-For other tips, such as using math, see the guide on [writing content with Academic](https://wowchemy.com/docs/content/writing-markdown-latex/).
+- **Research Plan and Timeline** 
+  
+  * Provide a detailed timeline indicating the sequence of activities and milestones.
+  
+  * Specify the estimated time for each task, such as literature review, data collection, analysis, and writing.
+  
+- **Budget and Resources**
+  
+  * List the resources you will need, including laboratory equipment, materials, software, and any necessary funding.
 
-## Convert notebook to Markdown
+  * Explain how you plan to obtain these resources.
+  
+- **References**
+  
+  Include a comprehensive list of all the sources cited in your proposal, following a consistent citation style (e.g., APA, MLA, or the style recommended by your institution).
 
-```bash
-jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-```
-
-## Example
-
-This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter
+- **Appendices (if necessary)**
+  
+  Attach any additional documents, such as survey questionnaires, permits, or supplementary information.
+  
+## Notes
+Remember, your doctoral research proposal is a crucial document that should convince your academic committee of the feasibility and significance of your research project. It should be well-structured, well-reasoned, and persuasively written. Good luck with your research proposal!
