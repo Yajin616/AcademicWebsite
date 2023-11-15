@@ -91,7 +91,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any suggestions or opinions about the website, please feel free to contact me by email.
       # Contact (add or remove contact options as necessary)
       email: xuyajin@stu.ouc.edu.cn
       appointment_url: 'https://calendly.com'
