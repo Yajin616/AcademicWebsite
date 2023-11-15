@@ -98,7 +98,7 @@ sections:
       address:
         street: Almadies
         city: Dakar
-        district: Senegal
+        region: Senegal
         postcode: '999066'
         country: Senegal
         country_code: SEN
