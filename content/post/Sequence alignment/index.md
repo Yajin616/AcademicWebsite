@@ -1,16 +1,16 @@
 ---
-title: Use DNAman and GeneDoc for gene sequence alignment and analysis
+title: Bioinformatics--Sequence alignment and Neighbor-joining evolutionary trees
 
-subtitle: DNAman and GeneDoc are software tools commonly used for sequence alignment and analysis. Both software tools offer different functionalities, where DNAman performs alignments directly, whereas GeneDoc helps in visualizing and refining existing alignments.
+subtitle: DNAman, GeneDoc, and MEGA (Molecular Evolutionary Genetics Analysis) are commonly used bioinformatics software tools. DNAman directly performs multiple sequence alignments, while GeneDoc helps visualize and refine existing alignments, and then uses MEGA to create Neighbor-Joining evolutionary trees.
 
 # Summary for listings and search engines
-summary: DNAman and GeneDoc are software tools commonly used for sequence alignment and analysis. Both software tools offer different functionalities, where DNAman performs alignments directly, whereas GeneDoc helps in visualizing and refining existing alignments.
+summary: DNAman, GeneDoc, and MEGA (Molecular Evolutionary Genetics Analysis) are commonly used bioinformatics software tools. DNAman directly performs multiple sequence alignments, while GeneDoc helps visualize and refine existing alignments, and then uses MEGA to create Neighbor-Joining evolutionary trees.
 
 # Date published
-date: '2022-09-16T00:00:00Z'
+date: '2023-11-10T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-16T00:00:00Z'
+lastmod: '2023-11-10T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -54,4 +54,27 @@ tags:
 - **Manual Editing (if needed):** If there are specific regions you want to modify or annotate, GeneDoc may allow for manual editing. Look for options related to editing or annotations.
 
  - **Save/Export:** Save the modified alignment in a format compatible with your downstream analysis or publication needs.
+
+## Neighbor-Joining trees
+
+- **Data Input:** Launch the MEGA software on your computer. Go to "File" -> "Open Data File" to import your sequence data in formats like FASTA, GenBank, or MEGA file format.
+  
+- **Constructing Tree:**
+  
+   * Go to "Phylogeny" -> "Construct/Test Phylogenetic Tree".
+     
+   * Select "Neighbor-Joining" as the tree-building method.
+     
+   * Choose a substitution model suitable for your dataset. Commonly used models include Jukes-Cantor, Kimura 2-parameter, or Tamura-Nei.
+     
+   * Estimate the rates of variation among sites if applicable.
+   
+   * Perform bootstrap analysis to assess the reliability of branches. Choose the number of bootstrap replicates (e.g., 1000) to generate resampled datasets and compute consensus trees.
+   
+   * Click on the "Compute" or "Run" button to start constructing the neighbor-joining tree.
+
+- **Tree Visualization and Analysis:** Once the tree is generated, it will be displayed in the main window. Explore the tree using different viewing options (e.g., zoom, node labels) to examine evolutionary relationships. Evaluate the support values at the nodes if you performed bootstrapping. Higher values indicate stronger support for specific branches.
+
+- **Saving and Exporting:** Save the constructed tree in a compatible format (e.g., Newick format) for further analysis or visualization. Export the tree image or copy it for use in presentations, reports, or publications.
+ 
 
