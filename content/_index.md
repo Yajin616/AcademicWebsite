@@ -99,7 +99,6 @@ sections:
         street: Almadies
         city: Dakar
         region: Senegal
-        postcode: '999066'
         country: Senegal
         country_code: SEN
       directions: Fishery and Aquaculture Officer
