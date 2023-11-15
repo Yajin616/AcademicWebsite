@@ -96,13 +96,16 @@ sections:
       email: xuyajin@stu.ouc.edu.cn
       appointment_url: 'https://calendly.com'
       address:
-        street: No. 62 Fuzhou South Road
-        city: Qingdao
-        region: Shandong
-        postcode: '266073'
-        country: China
-        country_code: CHN
-      directions: Marine Geology Research Institute Park
+        street: Almadies
+        city: Dakar
+        postcode: '999066'
+        country: Senegal
+        country_code: SEN
+      directions: Fishery and Aquaculture Officer
+    
+                  Subregional Office for West Africa
+    
+                  Food and Agriculture Organization of the United Nations (FAO)
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
