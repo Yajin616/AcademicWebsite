@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics--sequence alignment and Neighbor-Joining evolutionary trees
+title: Bioinformatics--Sequence Alignment and Neighbor-Joining Evolutionary Trees
 
 subtitle: DNAman, GeneDoc, and MEGA (Molecular Evolutionary Genetics Analysis) are commonly used bioinformatics software tools. DNAman directly performs multiple sequence alignments, while GeneDoc helps visualize and refine existing alignments, and then uses MEGA to create Neighbor-Joining evolutionary trees.
 
