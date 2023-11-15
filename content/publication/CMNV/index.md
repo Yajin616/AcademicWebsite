@@ -2,11 +2,11 @@
 title: "The development of a novel quantitative assay for the detection of convert mortality nodavirus (CMNV) in Litopenaeus vannamei"
 authors:
 - admin
-date: "2023-7-27T00:00:00Z"
+date: "2023-07-27T00:00:00Z"
 doi: "https://doi.org/10.1016/j.aquaculture.2023.739923"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-09T00:00:00Z"
+publishDate: "2023-07-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
