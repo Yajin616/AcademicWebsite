@@ -1,6 +1,10 @@
 ---
 title: Use DNAman and GeneDoc for gene sequence alignment and analysis
+
 subtitle: DNAman and GeneDoc are software tools commonly used for sequence alignment and analysis. Both software tools offer different functionalities, where DNAman performs alignments directly, whereas GeneDoc helps in visualizing and refining existing alignments.
+
+# Summary for listings and search engines
+summary: DNAman and GeneDoc are software tools commonly used for sequence alignment and analysis. Both software tools offer different functionalities, where DNAman performs alignments directly, whereas GeneDoc helps in visualizing and refining existing alignments.
 
 # Date published
 date: '2022-09-16T00:00:00Z'
